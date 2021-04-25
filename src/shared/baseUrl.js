@@ -1,0 +1,1 @@
+export const additivApi = 'http://api.additivasia.io/api/v1/assignment/employees/'
